@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CORTT/CHAN – 偶尔头痛</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2022-08-16T00:00:00+08:00</updated><entry><title>HelloWorld</title><link href="/helloworld.html" rel="alternate"></link><published>2022-08-16T00:00:00+08:00</published><updated>2022-08-16T00:00:00+08:00</updated><author><name>CorttChan</name></author><id>tag:None,2022-08-16:/helloworld.html</id><summary type="html">&lt;h2&gt;Welcome to GitHub Pages&lt;/h2&gt;
+&lt;p&gt;You can use the &lt;a href="https://github.com/CorttChan/corttchan.github.io/edit/master/index.md"&gt;editor on GitHub&lt;/a&gt; to maintain and preview the content for your website in Markdown files.&lt;/p&gt;
+&lt;p&gt;Whenever you commit to this repository, GitHub Pages will run &lt;a href="https://jekyllrb.com/"&gt;Jekyll&lt;/a&gt; to rebuild the pages in your site, from the content in your Markdown files.&lt;/p&gt;
+&lt;h3&gt;Markdown&lt;/h3&gt;
+&lt;p&gt;Markdown …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Welcome to GitHub Pages&lt;/h2&gt;
+&lt;p&gt;You can use the &lt;a href="https://github.com/CorttChan/corttchan.github.io/edit/master/index.md"&gt;editor on GitHub&lt;/a&gt; to maintain and preview the content for your website in Markdown files.&lt;/p&gt;
+&lt;p&gt;Whenever you commit to this repository, GitHub Pages will run &lt;a href="https://jekyllrb.com/"&gt;Jekyll&lt;/a&gt; to rebuild the pages in your site, from the content in your Markdown files.&lt;/p&gt;
+&lt;h3&gt;Markdown&lt;/h3&gt;
+&lt;p&gt;Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Syntax highlighted code block
+
+&lt;span class="gh"&gt;# Header 1&lt;/span&gt;
+&lt;span class="gu"&gt;## Header 2&lt;/span&gt;
+&lt;span class="gu"&gt;### Header 3&lt;/span&gt;
+
+&lt;span class="k"&gt;-&lt;/span&gt; Bulleted
+&lt;span class="k"&gt;-&lt;/span&gt; List
+
+&lt;span class="k"&gt;1.&lt;/span&gt; Numbered
+&lt;span class="k"&gt;2.&lt;/span&gt; List
+
+&lt;span class="gs"&gt;**Bold**&lt;/span&gt; and &lt;span class="ge"&gt;_Italic_&lt;/span&gt; and &lt;span class="sb"&gt;`Code`&lt;/span&gt; text
+
+[&lt;span class="nt"&gt;Link&lt;/span&gt;](&lt;span class="na"&gt;url&lt;/span&gt;) and ![&lt;span class="nt"&gt;Image&lt;/span&gt;](&lt;span class="na"&gt;src&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;For more details see &lt;a href="https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"&gt;Basic writing and formatting syntax&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Jekyll Themes&lt;/h3&gt;
+&lt;p&gt;Your Pages site will use the layout and styles from the Jekyll theme you have selected in your &lt;a href="https://github.com/CorttChan/corttchan.github.io/settings/pages"&gt;repository settings&lt;/a&gt;. The name of this theme is saved in the Jekyll &lt;code&gt;_config.yml&lt;/code&gt; configuration file.&lt;/p&gt;
+&lt;h3&gt;Support or Contact&lt;/h3&gt;
+&lt;p&gt;Having trouble with Pages? Check out our &lt;a href="https://docs.github.com/categories/github-pages-basics/"&gt;documentation&lt;/a&gt; or &lt;a href="https://support.github.com/contact"&gt;contact support&lt;/a&gt; and we’ll help you sort it out.&lt;/p&gt;</content><category term="misc"></category></entry></feed>
